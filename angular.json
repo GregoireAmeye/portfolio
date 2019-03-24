@@ -31,7 +31,7 @@
             ],
             "scripts": [],
             "es5BrowserSupport": true,
-            "deployUrl": "./"
+            "deployUrl": "/portfolio/"
           },
           "configurations": {
             "production": {
