@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "/",
   "projects": {
-    "portfolio2": {
+    "portfolio": {
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
@@ -30,7 +30,8 @@
               "src/styles.scss"
             ],
             "scripts": [],
-            "es5BrowserSupport": true
+            "es5BrowserSupport": true,
+            "deployUrl": "./"
           },
           "configurations": {
             "production": {
